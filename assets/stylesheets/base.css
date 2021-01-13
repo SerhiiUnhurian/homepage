@@ -596,11 +596,17 @@ article {
 .contacts li a.facebook:hover {
   color: #3b5998;
 }
+.contacts li a.twitter:hover {
+  color: #1DA1F2;
+}
+.contacts li a.instagram:hover {
+  color: #F04E00;
+}
 .contacts li a.github:hover {
   color: dimgrey;
 }
 .contacts li a.mail:hover {
-  color: dimgrey;
+  color: rgb(207, 94, 94);
 }
 .contacts li a.skype:hover {
   color: #00aff0;
